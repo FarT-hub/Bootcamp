@@ -91,7 +91,7 @@ function App() {
     },
   ];
 
-  const author = "мной";
+  const author = "Фрацевым Артемом";
   const designer = "Валерией Бубырь";
   return <>
     <HeroBlock title="Качество атмосферного воздуха и здоровье"
